@@ -1,6 +1,7 @@
 package konradrudnicki.springframework.sfgdi.controllers;
 
-import konradrudnicki.springframework.sfgdi.services.ConstructorGreetingService;
+import guru.springframework.sfgdi.controllers.SetterInjectedController;
+import guru.springframework.sfgdi.services.ConstructorGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
